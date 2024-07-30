@@ -52,7 +52,7 @@ After many hyperparameter tuning and improvements, we trained our model to get a
 
 To run the Streamlit app, use the following command:
 ```bash
-streamlit run src/streamlit_app.py
+streamlit run streamlit_app.py
 ```
 
 
