@@ -1,10 +1,13 @@
 # SMS Spam Detection
 
 ## Project Overview
+
+![sms](https://github.com/user-attachments/assets/477530ab-a28c-4839-90e8-48684d5f0940)
+
 The proliferation of online platforms has led to an overwhelming volume of unsolicited messages, including promotional and fraudulent content, inundating consumer inboxes. This deluge of spam obscures essential communications, diminishing user experience.
 
 ## Project Objective
-This project aims to develop a robust SMS spam detection model to accurately classify messages as legitimate or spam. By leveraging Natural Language Processing (NLP) techniques and the Naive Bayes algorithm, we analyze a dataset of 5,574 SMS messages labeled as either "ham" (legitimate) or "spam." This will contribute to the development of effective spam filtering solutions, enhancing user experience and mitigating the negative impacts of unsolicited messages.
+This project aims to develop a robust SMS spam detection model to classify messages as legitimate or spam accurately. By leveraging Natural Language Processing (NLP) techniques and the Naive Bayes algorithm, we analyze a dataset of 5,574 SMS messages labeled as either "ham" (legitimate) or "spam." This will contribute to developing effective spam filtering solutions, enhancing user experience and mitigating the negative impacts of unsolicited messages.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -54,7 +57,6 @@ To run the Streamlit app, use the following command:
 ```bash
 streamlit run streamlit_app.py
 ```
-
 
 ## License
 
