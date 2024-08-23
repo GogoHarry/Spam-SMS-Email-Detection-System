@@ -1,8 +1,9 @@
-# SMS Spam Detection
+# Email/SMS Spam Detection
 
 ## Project Overview
 
-![sms](https://github.com/user-attachments/assets/477530ab-a28c-4839-90e8-48684d5f0940)
+### Project Video
+<video src="https://private-user-images.githubusercontent.com/82883963/361005800-c912f529-c4ce-43bd-a794-4c3830a95f8f.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ0MzI0NjksIm5iZiI6MTcyNDQzMjE2OSwicGF0aCI6Ii84Mjg4Mzk2My8zNjEwMDU4MDAtYzkxMmY1MjktYzRjZS00M2JkLWE3OTQtNGMzODMwYTk1ZjhmLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIzVDE2NTYwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThlZmM1YWM2MmVhOTc1YjQ2NmU4MTBiZDFlOTA1YmI5YjkxZjcxNTAyZWEzZmU3ZDc5ZDcwNDUzNmEzMDk5YTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.IDLjCssfj-KCfqOoLnCYHnBaAvX7CpYtYjSpY2G-Tvo" controls="controls" style="max-width: 100%;">
 
 The proliferation of online platforms has led to an overwhelming volume of unsolicited messages, including promotional and fraudulent content, inundating consumer inboxes. This deluge of spam obscures essential communications, diminishing user experience.
 
